@@ -1,4 +1,4 @@
 # whereIsMyCar
 
 Purpose:
-To find where your car is.
+To find where your car is parking.
