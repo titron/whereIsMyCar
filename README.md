@@ -18,7 +18,7 @@ check when your location update.
 
 then click "Show Directions".
 
-Below show the Travel-Route to your car parking place.will be 
+Below show the Travel-Route to your car. 
 
 
 
