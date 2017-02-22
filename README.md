@@ -15,7 +15,7 @@ Park your car then Click "Remember" button to remember your park location.
 
 check when your location update.
 
-then click "Show directions".
+then click "Show Directions".
 
 Below show the Travel-Route to your car parking place.will be 
 
